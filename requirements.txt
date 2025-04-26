@@ -1,5 +1,7 @@
 flask
+flask-cors
 openai
 supabase
 python-dotenv
 numpy
+gunicorn
